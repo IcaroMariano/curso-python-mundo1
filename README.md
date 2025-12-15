@@ -1,4 +1,4 @@
-Curso de Python 3 – Mundo 1 (Curso em Vídeo)
+## Curso de Python 3 – Mundo 1 (Curso em Vídeo)
 
 Este repositório contém **todos os exercícios resolvidos do Mundo 1 – Fundamentos**, do curso ministrado por **Gustavo Guanabara** no canal **Curso em Vídeo**.
 
